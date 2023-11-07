@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 options(
-  ggplot2.continuous.colout = "viridis",
+  ggplot2.continuous.colour = "viridis",
   ggplot2.continuous.fill = "viridis"
 )
 ```
